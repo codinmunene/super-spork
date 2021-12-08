@@ -1,3 +1,26 @@
-<h1>trial</h1>
-<main>
-<p>click here to go to <a href="https://www.africabizinfo.com" target="_blank">green world
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title>green world</title>
+	
+	<style>
+		.GFG {
+			font-size:40px;
+			font-weight:bold;
+			color:green;
+		}
+		body {
+			text-align:center;
+		}
+	</style>
+</head>
+
+<body>
+	<div class = "GFG">WELCOME TO GREEN WORLD</div>
+	<aside>
+		<div>we care we share</div>
+	</aside>
+</body>
+
+</html>					
